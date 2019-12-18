@@ -1,0 +1,8 @@
+﻿  Driller3.cpp
+C:\Users\Skyler\Desktop\Data Structures\Driller3.0\Driller3.0\Search.h(29,37): warning C4244:  'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Skyler\Desktop\Data Structures\Driller3.0\Driller3.0\Driller3.cpp(263): message :  see reference to function template instantiation '__int64 binarySearch<DrillingRecord>(const T &,const ResizableArray<T> &,const Comparator<T> &)' being compiled
+C:\Users\Skyler\Desktop\Data Structures\Driller3.0\Driller3.0\Driller3.cpp(263): message :         with
+C:\Users\Skyler\Desktop\Data Structures\Driller3.0\Driller3.0\Driller3.cpp(263): message :         [
+C:\Users\Skyler\Desktop\Data Structures\Driller3.0\Driller3.0\Driller3.cpp(263): message :             T=DrillingRecord
+C:\Users\Skyler\Desktop\Data Structures\Driller3.0\Driller3.0\Driller3.cpp(263): message :         ]
+  Driller3.0.vcxproj -> C:\Users\Skyler\Desktop\Data Structures\Driller3.0\Debug\Driller3.0.exe
